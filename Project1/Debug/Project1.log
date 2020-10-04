@@ -1,0 +1,5 @@
+﻿  Source.cpp
+d:\5 сем\осисп\laba2\project1\project1\source.cpp(108): warning C4101: hfntOld: неиспользованная локальная переменная
+d:\5 сем\осисп\laba2\project1\project1\source.cpp(104): warning C4101: rc: неиспользованная локальная переменная
+d:\5 сем\осисп\laba2\project1\project1\source.cpp(247): warning C4101: y: неиспользованная локальная переменная
+  Project1.vcxproj -> D:\5 сем\ОСиСП\Laba2\Project1\Debug\Project1.exe
